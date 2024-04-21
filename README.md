@@ -1,6 +1,6 @@
-# content
+# Flutter Drawing App
 
-A new Flutter project.
+Simple drawing app for ios and android using GestureDetector and CustomPaint widget.
 
 ## Getting Started
 
